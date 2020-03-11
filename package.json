@@ -1,7 +1,7 @@
 {
-  "name": "feather-icons",
+  "name": "ala-icons",
   "version": "0.0.0-development",
-  "description": "Simply beautiful open source icons",
+  "description": "Ala icons",
   "main": "dist/feather.js",
   "unpkg": "dist/feather.min.js",
   "files": [
@@ -62,6 +62,6 @@
     "type": "git",
     "url": "https://github.com/feathericons/feather.git"
   },
-  "author": "Cole Bemis <cole@colebemis.com> (http://colebemis.com)",
+  "author": "Mevlut Canvar <mevlutcanvar@gmail.com> (https://mevlutcanvar.com.tr)",
   "license": "MIT"
 }
